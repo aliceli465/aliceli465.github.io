@@ -24,19 +24,19 @@ Learn more about Chinese culture and meet new friends at our fun events!
   <!--Images-->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="images\events\game-night.png" alt="game night">
+      <img src="images\events\game-night.png" alt="game night"/>
     </div>
     <div class="item">
-      <img src="images\events\kft.png" alt="kft">
+      <img src="images\events\kft.png" alt="kft"/>
     </div>
     <div class="item">
-      <img src="images\events\lantern.jpg" alt="lantern">
+      <img src="images\events\lantern.jpg" alt="lantern"/>
     </div>
     <div class="item">
-      <img src="images\events\mahjong.png" alt="mahjong">
+      <img src="images\events\mahjong.png" alt="mahjong"/>
     </div>
     <div class="item">
-      <img src="images\events\tangyuan.jpg" alt="tangyuan">
+      <img src="images\events\tangyuan.jpg" alt="tangyuan"/>
     </div>
   </div>
   <!--left and right controls-->
