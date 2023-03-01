@@ -11,7 +11,44 @@ image: "/services/default.png"
 </style>
 
 Learn more about Chinese culture and meet new friends at our fun events!
-
+<!--carousel -->
+<div id = "eventCarousel" class = "carousel slide" data-ride="carousel">
+  <!--Indicators -->
+  <ol class = "carouseL-indicators">
+    <li data-target="#eventCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#eventCarousel" data-slide-to="1"></li>
+    <li data-target="#eventCarousel" data-slide-to="2"></li>
+    <li data-target="#eventCarousel" data-slide-to="3"></li>
+    <li data-target="#eventCarousel" data-slide-to="4"></li>
+  </ol>
+  <!--Images-->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images\events\game-night.png" alt="game night">
+    </div>
+    <div class="item">
+      <img src="images\events\kft.png" alt="kft">
+    </div>
+    <div class="item">
+      <img src="images\events\lantern.jpg" alt="lantern">
+    </div>
+    <div class="item">
+      <img src="images\events\mahjong.png" alt="mahjong">
+    </div>
+    <div class="item">
+      <img src="images\events\tangyuan.jpg" alt="tangyuan">
+    </div>
+  </div>
+  <!--left and right controls-->
+  <a class="left carousel-control" href="#eventCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#eventCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 ## __<u>Upcoming Events</u>__
 <p></p>
 
