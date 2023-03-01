@@ -9,7 +9,9 @@ image: "/services/default.png"
   }
 }
 </style>
-
+<!--carousel??-->
+<script type="text/javascript" src="assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="assets/lib/bootstrap/dist/css/bootstrap.min.css"/>
 Learn more about Chinese culture and meet new friends at our fun events!
 <!--carousel -->
 <div id = "eventCarousel" class = "carousel slide" data-ride="carousel">
